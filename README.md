@@ -62,7 +62,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajiya2002&show_icons=true&layout=compact&theme=highcontrast" alt="Sajiya2002" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sajiya2002&show_icons=true&theme=highcontrast" alt="Sajiya2002" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sajiya2002&theme=highcontrast" alt="Sajiya2002" /></p>
 </details>
