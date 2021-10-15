@@ -1,6 +1,6 @@
 <h2 align="center">☠️ Hello ☠️ <br>I'm <br>LiL LuZi</h1>
 <img align="center">
-<h4 align="center">I am a simple lil luzi...</h3>
+<h4 align="center">I am a simple man...</h3>
 
 <img align="right" alt="GIF" src="https://i.ibb.co/VwWBJJ4/20210815-191915.jpg" width="400"/>
 
